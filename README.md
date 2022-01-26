@@ -1,6 +1,6 @@
 # designPatternsCourseProjects
 
-### All Sample Codes for -->
+### All Design Patterns C# Codes for -->
 
 #### SOLID
 - Single Responsibility Principle
@@ -11,3 +11,6 @@
 
 #### Creational Patterns
 - Builder
+- Factories
+- Prototype
+- Singleton
