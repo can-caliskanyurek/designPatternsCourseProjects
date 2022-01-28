@@ -1,6 +1,5 @@
 ﻿using OpenClosedPrinciple.Classes;
 using System;
-using System.Collections.Generic;
 
 namespace OpenClosedPrinciple
 {

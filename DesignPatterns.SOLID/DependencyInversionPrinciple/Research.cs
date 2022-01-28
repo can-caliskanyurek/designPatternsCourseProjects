@@ -1,7 +1,6 @@
 ﻿using DependencyInversionPrinciple.Classes;
 using DependencyInversionPrinciple.Interfaces;
 using System;
-using System.Linq;
 
 namespace DependencyInversionPrinciple
 {

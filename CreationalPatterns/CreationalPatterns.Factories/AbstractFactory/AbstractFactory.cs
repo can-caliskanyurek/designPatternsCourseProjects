@@ -1,6 +1,5 @@
 ﻿using AbstractFactory.Classes;
 using AbstractFactory.Interfaces;
-using System;
 
 namespace AbstractFactory
 {
