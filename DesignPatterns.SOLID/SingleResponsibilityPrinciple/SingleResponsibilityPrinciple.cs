@@ -5,7 +5,7 @@ namespace SingleResponsibilityPrinciple
 {
     public class SingleResponsibilityPrinciple
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             var j = new Journal();
             j.AddEntry("Coding is fun.");

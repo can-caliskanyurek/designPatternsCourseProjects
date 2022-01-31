@@ -23,7 +23,7 @@ namespace BuilderCodingExercise
 {
     public class BuilderExercise
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             CodeBuilder codeBuilder = new CodeBuilder("Person").AddField("Name", "string").AddField("Age", "int");
 

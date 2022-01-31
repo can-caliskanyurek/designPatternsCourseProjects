@@ -28,7 +28,7 @@ namespace DependencyInversionPrinciple
             }
         }
 
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Person parent = new Person() { Name = "John" };
             Person child1 = new Person() { Name = "Chris" };

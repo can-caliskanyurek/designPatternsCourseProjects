@@ -119,7 +119,7 @@ namespace InterfaceSegregationPrinciple
 
     public class InterfaceSegregationPrinciple
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
 
         }

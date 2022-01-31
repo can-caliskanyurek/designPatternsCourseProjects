@@ -9,7 +9,7 @@ namespace StepwiseBuilder
     }
     public class StepwiseBuilder
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             Car car = CarBuilder.Create().OfType(CarType.Crossover).WithWheels(18).Build();
 

@@ -5,7 +5,7 @@ namespace LiskovSubstitutionPrinciple
 {
     public class LiskovSubstitutionPrinciple
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             static int Area(Rectangle rect) => rect.Width * rect.Height;
 

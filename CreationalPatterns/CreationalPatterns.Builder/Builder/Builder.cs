@@ -5,7 +5,7 @@ namespace BuilderPattern
 {
     public class Builder
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             HtmlBuilder htmlBuilder = new HtmlBuilder("ul");
             htmlBuilder.AddChild("li", "hello");

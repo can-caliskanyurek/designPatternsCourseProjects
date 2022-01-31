@@ -6,7 +6,7 @@ namespace ObjectTrackingAndBulkReplacement
 {
     public class ObjectTrackingAndBulkReplacement
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             TrackingThemeFactory factory = new TrackingThemeFactory();
             factory.CreateTheme(false);

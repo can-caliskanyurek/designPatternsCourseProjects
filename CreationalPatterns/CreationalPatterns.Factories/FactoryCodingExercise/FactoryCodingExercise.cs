@@ -10,7 +10,7 @@ namespace FactoryCodingExercise
 {
     public class FactoryCodingExercise
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             PersonFactory factory = new PersonFactory();
             factory.CreatePerson("Can");

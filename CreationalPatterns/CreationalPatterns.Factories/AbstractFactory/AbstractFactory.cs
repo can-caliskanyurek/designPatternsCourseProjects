@@ -5,7 +5,7 @@ namespace AbstractFactory
 {
     public class AbstractFactory
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             //HotDrinkMachine machine = new HotDrinkMachine();
             //IHotDrink drink = machine.MakeDrink(HotDrinkMachine.AvailableDrink.Tea, 100);

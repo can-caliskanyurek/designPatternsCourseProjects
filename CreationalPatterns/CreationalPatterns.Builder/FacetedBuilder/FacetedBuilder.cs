@@ -5,7 +5,7 @@ namespace FacetedBuilder
 {
     public class FacetedBuilder
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             PersonBuilder personBuilder = new PersonBuilder();
             Person person = personBuilder

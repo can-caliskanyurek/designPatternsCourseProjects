@@ -15,7 +15,7 @@ namespace OpenClosedPrinciple
 
     public class OpenClosedPrinciple
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
             var apple = new Product("Apple", Color.Green, Size.Small);
             var tree = new Product("Tree", Color.Green, Size.Large);
