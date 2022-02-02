@@ -1,7 +1,8 @@
 ﻿using BuilderCodingExercise.Classes;
 using System;
 
-/* You are asked to implement the Builder design pattern for rendering simple chunks of code.
+/* 
+ * You are asked to implement the Builder design pattern for rendering simple chunks of code.
  * Sample use of builder you are asked to create:
  * 
  *      CodeBuilder codeBuilder = new CodeBuilder("Person").AddField("Name", "string").AddField("Age", "int");
@@ -21,7 +22,7 @@ using System;
 
 namespace BuilderCodingExercise
 {
-    public class BuilderExercise
+    public class BuilderCodingExercise
     {
         static void Main(string[] args)
         {

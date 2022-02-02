@@ -1,6 +1,10 @@
 ﻿using PrototypeCodingExercise.Classes;
 using System;
 
+/*
+ * Implement Line.DeepCopy() to perform a deep copy of the current Line
+ */
+
 namespace PrototypeCodingExercise
 {
     public class PrototypeCodingExercise
