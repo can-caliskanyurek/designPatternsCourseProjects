@@ -14,3 +14,12 @@
 - Factories
 - Prototype
 - Singleton
+
+#### Structural Patterns
+- Adapter
+- Bridge
+- Composite
+- Decorator
+- Façade
+- Flyweight
+- Proxy
