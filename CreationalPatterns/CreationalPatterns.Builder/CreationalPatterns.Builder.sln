@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionalBuilder", "Functi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacetedBuilder", "FacetedBuilder\FacetedBuilder.csproj", "{AF4951F2-8750-487F-9CEA-CD1251CF69F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderCodingExercise", "BuilderCodingExercide\BuilderCodingExercise.csproj", "{19450442-DAD4-4598-A2B5-7002B9B383E4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderCodingExercise", "BuilderCodingExercise\BuilderCodingExercise.csproj", "{5C672E41-1589-4415-9291-5F9104C3D073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{AF4951F2-8750-487F-9CEA-CD1251CF69F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF4951F2-8750-487F-9CEA-CD1251CF69F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF4951F2-8750-487F-9CEA-CD1251CF69F7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{19450442-DAD4-4598-A2B5-7002B9B383E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{19450442-DAD4-4598-A2B5-7002B9B383E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{19450442-DAD4-4598-A2B5-7002B9B383E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{19450442-DAD4-4598-A2B5-7002B9B383E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C672E41-1589-4415-9291-5F9104C3D073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C672E41-1589-4415-9291-5F9104C3D073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C672E41-1589-4415-9291-5F9104C3D073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C672E41-1589-4415-9291-5F9104C3D073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
