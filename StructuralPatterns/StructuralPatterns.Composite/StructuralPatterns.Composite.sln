@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometricShapes", "GeometricShapes\GeometricShapes.csproj", "{7E88B22C-1DED-4739-BD00-E0514DC5E5F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworks", "NeuralNetworks\NeuralNetworks.csproj", "{B5B0A029-4319-4F97-8C00-9A644F0D8C7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeSpecification", "CompositeSpecification\CompositeSpecification.csproj", "{4E09D860-CA55-4108-BE90-F2BEE77C9475}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeCodingExercise", "CompositeCodingExercise\CompositeCodingExercise.csproj", "{2DE3FA7D-D3CF-4CB8-B3D3-1292C2E45C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E88B22C-1DED-4739-BD00-E0514DC5E5F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E88B22C-1DED-4739-BD00-E0514DC5E5F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E88B22C-1DED-4739-BD00-E0514DC5E5F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E88B22C-1DED-4739-BD00-E0514DC5E5F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B0A029-4319-4F97-8C00-9A644F0D8C7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B0A029-4319-4F97-8C00-9A644F0D8C7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B0A029-4319-4F97-8C00-9A644F0D8C7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B0A029-4319-4F97-8C00-9A644F0D8C7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E09D860-CA55-4108-BE90-F2BEE77C9475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E09D860-CA55-4108-BE90-F2BEE77C9475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E09D860-CA55-4108-BE90-F2BEE77C9475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E09D860-CA55-4108-BE90-F2BEE77C9475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE3FA7D-D3CF-4CB8-B3D3-1292C2E45C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE3FA7D-D3CF-4CB8-B3D3-1292C2E45C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE3FA7D-D3CF-4CB8-B3D3-1292C2E45C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE3FA7D-D3CF-4CB8-B3D3-1292C2E45C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972D5D77-F882-420B-94CE-0CADC677010C}
+	EndGlobalSection
+EndGlobal
