@@ -17,7 +17,7 @@ namespace AdapterCodingExercise
 
             SquareToRectangleAdapter adapter = new SquareToRectangleAdapter(square);
 
-            Console.WriteLine(ExtensionMethods.Area(adapter));
+            Console.WriteLine(adapter.Area());
         }
     }
 }
